@@ -1,0 +1,1 @@
+This repository contains my notebooks for the TIL AI Camp 2019 organized by DSTA. Tried to leverage on the pre-trained model, InceptionV3, for feature extraction and using the representations as input into a new model. Thereafter, to increase the accuracy, I applied fine-tuning to the top layers of the pre-trained model. 
